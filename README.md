@@ -10,7 +10,7 @@ Some useful plots from each of these notebooks will be stored in results.
 
 If you want to build the cases.json from the raw data files, follow the instructions in the following section.
 
-## Build Cases.json from Datasets
+## Build cases.json from Scratch
 1. Download the release from walkerdb dataset [here](https://github.com/walkerdb/supreme_court_transcripts/releases) and the justice.csv from the Kaggle dataset [here](https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction).
 2. Unzip the walkerdb archive and navigate to supreme_court_transcripts/oyez/.
 3. Copy the cases folder to the data directory.
